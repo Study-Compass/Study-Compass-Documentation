@@ -1,3 +1,8 @@
+---
+sidebar_position: 0
+---
+
+
 # Getting Started
 
 Welcome to our Study Compass! This document will guide you through setting up and starting our application, which uses React for the frontend and Express for the backend. We utilize Concurrently to run both parts simultaneously, streamlining the development process.
@@ -16,7 +21,7 @@ You can check your Node.js and npm versions by running **`node -v`** and **`npm 
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://yourrepositoryurl.com
+git clone git@github.com:Study-Compass/Study-Compass.git
 cd your-project-directory
 ```
 
