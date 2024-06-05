@@ -1,7 +1,7 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
-# Bug Fixing
+# Bug Fixing Guidlines
 
 Created by: James Liu
 Created time: May 23, 2024 2:35 PM

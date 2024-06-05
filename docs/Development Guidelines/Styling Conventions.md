@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 # Styling Conventions
 
 Created by: James Liu
