@@ -110,3 +110,9 @@ b{
     font-family: 'Satoshi';
     font-weight:900;
 }
+
+@media (max-width:500px) {
+    :root{
+        --ifm-spacing-horizontal:1rem;
+    }
+}
