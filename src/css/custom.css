@@ -93,9 +93,9 @@ code{
 }
 
 
-strong{
+/* strong{
     color: var(--ifm-color-content-secondary);
-}
+} */
 
 .hero__title{
     color:white;

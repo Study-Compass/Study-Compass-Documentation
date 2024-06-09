@@ -9,7 +9,7 @@ mongorestore
 mongod
 ```
 If any of the above commands cause errors, you do not have the necessary tools installed.
-### Step 1: Download and Install Mongo Community Server and Tools
+### **Step 1: Download and Install Mongo Community Server and Tools**
 If you have all the necessary tools installed, you can skip this step.
 
 #### **Install MongoDB Community Server:**
@@ -47,7 +47,7 @@ If you have all the necessary tools installed, you can skip this step.
     This action should not cause any errors. You may have to halt the execution of the commands (this is normal and means that the tools have been installed correctly).
 
 
-### Step 2: Export the MongoDB Atlas Database
+### **Step 2: Export the MongoDB Atlas Database**
 First, you need to export your MongoDB Atlas database to a BSON (Binary JSON) file. You can use the `mongodump` tool for this. Make sure you have your own Mongo Atlas URL (should be given by James)
 
 1. **Export the Database:**
@@ -64,7 +64,7 @@ First, you need to export your MongoDB Atlas database to a BSON (Binary JSON) fi
 
    Replace `your-atlas-connection-string` with your actual connection string and `/path/to/dump` with the path where you want to save the dump files.
 
-### Step 3: Import the Dump into Your Local MongoDB Instance
+### **Step 3: Import the Dump into Your Local MongoDB Instance**
 Next, you need to import the BSON files into your local MongoDB instance.
 
 1. **Import the Database:**
@@ -81,6 +81,6 @@ Next, you need to import the BSON files into your local MongoDB instance.
 
    Replace `your-local-db-name` with the name you want for your local database, `/path/to/dump` with the path to the dump files, and `your-atlas-db-name` with the name of the database from MongoDB Atlas.
 
-### Step 4: Verifying Databse
+### **Step 4: Verifying Database**
 
 Open the MongoDBCompass App, click connect. Under Databases, if you see the `studycompass` database, the database has been installed correctly.
