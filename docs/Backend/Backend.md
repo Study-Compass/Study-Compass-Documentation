@@ -6,9 +6,9 @@ Tags: Backend
 
 ## Backend Docs
 
-[Backend: Authentication Routes](https://www.notion.so/Backend-Authentication-Routes-72b3e48cff064c43853112d512f3e822?pvs=21)
+[Backend: Authentication Routes](Backend/Backend%20Authentication%20Routes)
 
-[Backend: Data Fetching Routes](https://www.notion.so/Backend-Data-Fetching-Routes-f4a18e8a21d043858e98c06ce56da4d8?pvs=21)
+[Backend: Data Fetching Routes](/Backend/Backend%20Data%20Fetching%20Routes)
 
 ## Overview
 

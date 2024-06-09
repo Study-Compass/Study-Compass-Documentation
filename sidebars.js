@@ -27,7 +27,7 @@ const sidebars = {
               },
             items:[
               'getting-started/Setup',
-                'getting-started/Installation',
+                'getting-started/Starting Study Compass',
                 'getting-started/Links',
             ]
         },
@@ -35,12 +35,49 @@ const sidebars = {
         {
             type:'category',
             label: "Development Guidelines",
+            // link:{
+            //     type:'doc',
+            //     id:'Development Guidelines/General Contribution Guidelines'
+            // },
             items:[
+            'Development Guidelines/General Contribution Guidelines',
               'Development Guidelines/Naming Conventions',
               'Development Guidelines/Styling Conventions',
               'Development Guidelines/Bug Fixing Guidelines'
             ]
+        },
+        {
+            type:'category',
+            label: "Frontend",
+            link:{
+                type:'doc',
+                id:'Frontend/Frontend'
+            },
+            items:[
+                'Frontend/Room Page',
+                'Frontend/Register Pages',
+                'Frontend/SearchBar Component',
+                'Frontend/Calendar & DayColumn Components',
+                'Frontend/MobileCalendar Component',
+                'Frontend/AuthProvider Component & AuthContext',
+                'Frontend/CacheProvider Component & CacheContext',
+                'Frontend/ErrorProvider Component & ErrorContext'
+
+            ]
+        },
+        {
+            type:'category',
+            label: "Backend",
+            link:{
+                type:'doc',
+                id:'Backend/Backend'
+            },
+            items:[
+                'Backend/Backend Authentication Routes',
+                'Backend/Backend Data Fetching Routes'
+            ]
         }
+
     ],
 
   // But you can create a sidebar manually

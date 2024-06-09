@@ -1,4 +1,4 @@
-# Installation
+# Starting Study Compass
 
 ## **Cloning the Repository**
 
@@ -37,6 +37,15 @@ Our project has dependencies for both the frontend and backend. You need to inst
     
 
 ## **Running the Application**
+
+Before starting the application, make sure your local MongoDB is running. To do this, open powershell and run the following command:
+```
+mongod
+```
+If there are no errors, the terminal session will not terminate. Once Mongo is running, you can start the application.
+:::note
+Make sure the `.env` file is placed in the backend directory, or else the application will not start
+:::
 
 We use Concurrently to run our frontend and backend servers at the same time. You can start both with a single command:
 
