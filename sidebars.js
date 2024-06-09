@@ -26,7 +26,8 @@ const sidebars = {
                 id: 'getting-started/getting-started',  // Link to the overview page
               },
             items:[
-
+              'getting-started/Setup',
+                'getting-started/Installation',
                 'getting-started/Links',
             ]
         },
@@ -35,7 +36,9 @@ const sidebars = {
             type:'category',
             label: "Development Guidelines",
             items:[
-                'Development Guidelines/Bug Fixing Guidelines'
+              'Development Guidelines/Naming Conventions',
+              'Development Guidelines/Styling Conventions',
+              'Development Guidelines/Bug Fixing Guidelines'
             ]
         }
     ],
