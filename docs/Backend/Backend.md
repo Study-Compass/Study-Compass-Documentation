@@ -6,9 +6,9 @@ Tags: Backend
 
 ## Backend Docs
 
-[Backend: Authentication Routes](Backend/Backend%20Authentication%20Routes)
+[Backend: Authentication Routes](/docs/Backend/Backend%20Authentication%20Routes)
 
-[Backend: Data Fetching Routes](/Backend/Backend%20Data%20Fetching%20Routes)
+[Backend: Data Fetching Routes](/docs/Backend/Backend%20Data%20Fetching%20Routes)
 
 ## Overview
 

@@ -1,5 +1,6 @@
 # Links
+Below are all the links relevant to the development of study compass:
 
-Created by: James Liu
-Created time: May 23, 2024 2:37 PM
-Tags: General
+[Github Org](https://github.com/Study-Compass)
+
+[Main Study Compass Repo](https://github.com/Study-Compass/Study-Compass)

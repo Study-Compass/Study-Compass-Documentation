@@ -43,7 +43,8 @@ const sidebars = {
             'Development Guidelines/General Contribution Guidelines',
               'Development Guidelines/Naming Conventions',
               'Development Guidelines/Styling Conventions',
-              'Development Guidelines/Bug Fixing Guidelines'
+              'Development Guidelines/Bug Fixing Guidelines',
+                'Development Guidelines/Mobile Development'
             ]
         },
         {
