@@ -44,7 +44,8 @@ const sidebars = {
               'Development Guidelines/Naming Conventions',
               'Development Guidelines/Styling Conventions',
               'Development Guidelines/Bug Fixing Guidelines',
-                'Development Guidelines/Mobile Development'
+                'Development Guidelines/Mobile Development',
+                'Development Guidelines/Updating Local Database',
             ]
         },
         {
