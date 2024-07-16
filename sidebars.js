@@ -77,6 +77,18 @@ const sidebars = {
                 'Backend/Backend Authentication Routes',
                 'Backend/Backend Data Fetching Routes'
             ]
+        },
+        {
+            type:'category',
+            label: "Database",
+            link:{
+                type:'doc',
+                id:'Database/Database'
+            },
+            items:[
+                'Database/Setup and Running Migration Scripts',
+                'Database/Database Versioning',
+            ]
         }
 
     ],
