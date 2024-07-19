@@ -23,7 +23,7 @@ Next, you need to import the BSON files into your local MongoDB instance.
    Use `mongorestore` to import the BSON files into your local MongoDB.
 
    ```sh
-   mongorestore --db studycompass /path/to/dump/studycompass
+   mongorestore --db studycompass --drop /path/to/dump/studycompass
    ```
     :::note
 
