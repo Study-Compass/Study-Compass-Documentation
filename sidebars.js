@@ -76,7 +76,8 @@ const sidebars = {
             },
             items:[
                 'Backend/Backend Authentication Routes',
-                'Backend/Backend Data Fetching Routes'
+                'Backend/Backend Data Fetching Routes',
+                'Backend/Backend Tutorial'
             ]
         },
         {
